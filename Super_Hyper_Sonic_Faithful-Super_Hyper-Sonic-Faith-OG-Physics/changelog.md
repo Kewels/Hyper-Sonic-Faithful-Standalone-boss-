@@ -1,3 +1,6 @@
+## Hotfix 2.0.1
+-Files for changing effects and removing the footstep sounds were not included in the last build.  This update restorees the intended results.
+
 ## Super/Hyper Sonic Faithful 2.0
 -Added Hyper Sonic over Super Sonic proper.
 
