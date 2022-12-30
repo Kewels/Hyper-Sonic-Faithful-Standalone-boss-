@@ -39,7 +39,6 @@
 		 {
             "DisplayName": "Hyper (Colorful)",
             "Value": "boss_c_hyper_frontiers",
-			"Value": "hyper_aura",
             "Description": [
                "Turns on custom Super Sonic Physics + Flight",
             ]
@@ -47,7 +46,6 @@
 		 {
             "DisplayName": "Hyper (Soap Shoes, colorful aura)",
             "Value": "soap_boss_c_hyper_frontiers",
-			"Value": "hyper_aura",
             "Description": [
                "Hyper, but with Soap shoes and a colorful aura.",
             ]
@@ -62,7 +60,6 @@
 		 {
             "DisplayName": "Hyper (Soap Shoes, imaddi_'s Adventure quills, colorful aura)",
             "Value": "soap_boss_c_hyper_adventure",
-			"Value": "hyper_aura",
             "Description": [
                "Hyper, but with Soap shoes, Adventure quills and a colorful aura.",
             ]
@@ -70,7 +67,6 @@
 		 {
             "DisplayName": "Hyper (Colorful, imaddi_'s Adventure quills)",
             "Value": "boss_c_hyper_adventure",
-			"Value": "hyper_aura",
             "Description": [
                "Hyper Sonic with a quill style that is similar to the Adventure era.",
             ]
