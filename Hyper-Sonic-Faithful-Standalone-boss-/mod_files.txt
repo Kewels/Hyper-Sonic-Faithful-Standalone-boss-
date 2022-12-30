@@ -1,3 +1,21 @@
-add raw/EffectCommon.pac
-add raw/sound/sonic_sound/se_rangers_player_sonic.acb
+add boss_c_hyper_adventure/raw/EffectCommon.pac
+add boss_c_hyper_adventure/raw/character/supersonic.pac
+add boss_c_hyper_frontiers/raw/EffectCommon.pac
+add boss_c_hyper_frontiers/raw/character/supersonic.pac
+
+add soap_boss_c_hyper_adventure/raw/EffectCommon.pac
+add soap_boss_c_hyper_adventure/raw/character/supersonic.pac
+add soap_boss_c_hyper_frontiers/raw/EffectCommon.pac
+add soap_boss_c_hyper_frontiers/raw/character/supersonic.pac
+
+add main/raw/EventCommon.pac
+add main/raw/boss/knight01.pac
+add main/raw/event/scene/bo1xxx.pac
+add main/raw/event/scene/bo3xxx.pac
+add main/raw/event/scene/zev_knight_atk_sp01.pac
+add main/raw/event/scene/zev_knight_sonic_damage01.pac
+add main/raw/event/scene/zev_knight_sonic_sp01.pac
+add main/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
+
+add options.json
 add mod.ini
