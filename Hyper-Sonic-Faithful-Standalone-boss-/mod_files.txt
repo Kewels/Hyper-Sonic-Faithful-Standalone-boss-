@@ -1,12 +1,30 @@
 add boss_c_hyper_adventure/raw/EffectCommon.pac
 add boss_c_hyper_adventure/raw/character/supersonic.pac
-add boss_hyper_frontiers/raw/EffectCommon.pac
+
+add boss_c_hyper_frontiers/raw/EffectCommon.pac
+add boss_c_hyper_frontiers/raw/character/supersonic.pac
+
+add boss_hyper_adventure/raw/boss/knight01.pac
+add boss_hyper_adventure/raw/EventCommon.pac
+add boss_hyper_adventure/raw/character/supersonic.pac
+
+add boss_hyper_frontiers/raw/EventCommon.pac
 add boss_hyper_frontiers/raw/character/supersonic.pac
+add boss_hyper_frontiers/raw/boss/knight01.pac
 
 add soap_boss_c_hyper_adventure/raw/EffectCommon.pac
 add soap_boss_c_hyper_adventure/raw/character/supersonic.pac
-add soap_boss_hyper_frontiers/raw/EffectCommon.pac
+
+add soap_boss_c_hyper_frontiers/raw/EffectCommon.pac
+add soap_boss_c_hyper_frontiers/raw/character/supersonic.pac
+
+add soap_boss_hyper_frontiers/raw/EventCommon.pac
 add soap_boss_hyper_frontiers/raw/character/supersonic.pac
+add soap_boss_hyper_frontiers/raw/boss/knight01.pac
+
+add soap_boss_hyper_frontiers/raw/EventCommon.pac
+add soap_boss_hyper_frontiers/raw/character/supersonic.pac
+add soap_boss_hyper_frontiers/raw/boss/knight01.pac
 
 add main/raw/EventCommon.pac
 add main/raw/boss/knight01.pac
