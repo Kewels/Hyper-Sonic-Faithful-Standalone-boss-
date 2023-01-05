@@ -1,4 +1,7 @@
-## Hyper Sonic Fiathful 2.6
+## Hyper Sonic Faithful 2.6.5
+-Support for eye customization has now been added.  The available colors are cyan, magenta, blue and red.  To change eye colors, open the run_to_change_eye_colors.bat batch file and follow the prompt on-screen.
+
+## Hyper Sonic Faithful 2.6
 -Fixed some color oversights from 2.5.
 
 -The cyloop color for Hyper Sonic has been changed back to white again.

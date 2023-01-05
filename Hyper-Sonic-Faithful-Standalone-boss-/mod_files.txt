@@ -37,5 +37,16 @@ add main/raw/event/scene/zev_knight_sonic_damage01.pac
 add main/raw/event/scene/zev_knight_sonic_sp01.pac
 add main/raw/event/scene/zev_knight_sonic_sp01_phase2.pac
 
+add eye_tex/cyan/chr_supersonic_eye_abd.dds
+add eye_tex/green/chr_supersonic_eye_abd.dds
+add eye_tex/red/chr_supersonic_eye_abd.dds
+add eye_tex/magenta/chr_supersonic_eye_abd.dds
+
+add HedgeArcPackFrontiers0.exe
+add HedgeArcPackFrontiers1.exe
+add HedgeArcPackFrontiers2.exe
+add HedgeArcPackFrontiers3.exe
+add run_to_change_eye_colors.bat
+
 add options.json
 add mod.ini
