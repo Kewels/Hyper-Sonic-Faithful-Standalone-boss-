@@ -1,0 +1,10 @@
+[Main]
+<<<<<<< HEAD
+VersionString="2.6.5-dirty-REV2"
+=======
+VersionString="2.6.5"
+>>>>>>> b13f25237c01ffe591ff6515700431bae3b9eab5
+DownloadSizeString="401 MB"
+Markdown="changelog.md"
+[Changelog]
+StringCount=0
