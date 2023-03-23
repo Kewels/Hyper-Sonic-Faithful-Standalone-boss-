@@ -1,3 +1,6 @@
+## Hyper Sonic Faithful 2.6.5-dirty-REV2
+-Updated to support version 1.20
+
 ## Hyper Sonic Faithful 2.6.5
 -Support for eye customization has now been added.  The available colors are cyan, magenta, blue and red.  To change eye colors, open the run_to_change_eye_colors.bat batch file and follow the prompt on-screen.
 
