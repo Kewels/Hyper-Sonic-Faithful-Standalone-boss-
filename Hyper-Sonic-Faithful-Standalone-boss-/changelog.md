@@ -1,3 +1,6 @@
+## Hyper Sonic Faithful 2.6.5-REV3
+- While porting to game version 1.20, the cyloop color broke.  This update addresses that and it is white again.
+
 ## Hyper Sonic Faithful 2.6.5-dirty-REV2
 -Updated to support version 1.20
 
